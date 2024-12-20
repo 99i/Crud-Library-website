@@ -72,3 +72,12 @@ define('DB_NAME', 'library_system');
 Start the Application:
 
 Open your browser and navigate to http://localhost/<project-folder-name>.
+
+
+
+![Screenshot 2024-12-20 181531](https://github.com/user-attachments/assets/b98eb727-fdf4-40f1-a6cd-5285a5dbcbc4)
+![Screenshot 2024-12-20 181410](https://github.com/user-attachments/assets/75fb6a0e-cf4a-4e6a-b779-a6085032072b)
+![Screenshot 2024-12-20 181432](https://github.com/user-attachments/assets/b5176f4a-8f3d-4534-9dcb-4b74db134251)
+![Screenshot 2024-12-20 181511](https://github.com/user-attachments/assets/8e41fa74-3598-41f8-98fb-b43ca597705d)
+
+
